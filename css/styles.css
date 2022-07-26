@@ -1,0 +1,29 @@
+body {
+  background-color: #c9bbcf;
+}
+h1 {
+  text-align: center;
+  color: #495c83;
+}
+p {
+  text-align: center;
+  font-size: 24px;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+footer a {
+  margin: 0 10px;
+  border: 1px solid #b7d3df;
+  background-color: #d6efed;
+  border-radius: 10%;
+  padding: 8px;
+  font-size: 24px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  max-width: 100%;
+}
